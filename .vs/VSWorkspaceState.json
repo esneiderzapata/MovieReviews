@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\movie",
-    "\\moviereviews"
+    "\\movie"
   ],
-  "SelectedNode": "\\moviereviews\\urls.py",
+  "SelectedNode": "\\movie\\admin.py",
   "PreviewInSolutionExplorer": false
 }
